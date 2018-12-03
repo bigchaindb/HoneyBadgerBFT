@@ -1,3 +1,11 @@
+**The further development of this project is now going on in the repository:**
+
+**[https://github.com/ldmberman/HoneyBadgerBFT](https://github.com/ldmberman/HoneyBadgerBFT)**
+
+<hr/>
+<br/>
+<br/>
+
 # A Haskell implementation of HoneyBadgerBFT
 
 The research and protocols for this algorithm are explained in detail in [The Honey Badger of BFT Protocols by Miller et al., 2016](https://eprint.iacr.org/2016/199.pdf).
